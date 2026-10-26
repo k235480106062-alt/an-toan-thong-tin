@@ -1,0 +1,7 @@
+bin/ 
+obj/ 
+*.enc 
+*.dat 
+*.key 
+*.user 
+.vs/ 
